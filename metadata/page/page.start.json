@@ -9,7 +9,8 @@
     "page.cica-reference",
     "page.cica-reference-number",
     "page.email",
-    "page.check-answers"
+    "page.check-answers",
+    "page.confirmation"
   ],
   "url": "/"
 }
